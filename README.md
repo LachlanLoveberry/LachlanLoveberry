@@ -66,3 +66,6 @@ Don't duplicate intent | Make time to learn the basics and patterns | Documentat
 ![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+
+This readme was developed with the help of GPT-3.5
+The banner image was generated using DALL•E 2
