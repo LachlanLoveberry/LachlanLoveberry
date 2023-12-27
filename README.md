@@ -4,11 +4,12 @@
 I am a emerging expert software developer known for combining meticulous polish with frugal ingenuity. My passion fuels a commitment to crafting innovative solutions, while my kindness-driven approach fosters collaborative and inclusive environments. Embracing my overflowing eccentricity, I bring a unique perspective to problem-solving. With a track record of excellence, I navigate complexities with grace, offering a harmonious blend of technical prowess, time management, and a genuine love for the craft.
 
 ## My Go-to Web Stack
+### Core
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)  
-Tools  
+### Tools  
  ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
  ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
